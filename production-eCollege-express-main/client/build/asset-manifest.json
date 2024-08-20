@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33aae1ff.css",
+    "main.js": "/static/js/main.dcfc688d.js",
+    "static/media/city.jpg": "/static/media/city.bec413c4a34b94fe023a.jpg",
+    "static/media/cat.jpg": "/static/media/cat.f7cbf314c4d1d0f75758.jpg",
+    "static/media/stars.jpg": "/static/media/stars.b1fdedf568fd3727cc0a.jpg",
+    "static/media/nasa.jpg": "/static/media/nasa.c4c3a8cdb29137e43db3.jpg",
+    "index.html": "/index.html",
+    "main.33aae1ff.css.map": "/static/css/main.33aae1ff.css.map",
+    "main.dcfc688d.js.map": "/static/js/main.dcfc688d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33aae1ff.css",
+    "static/js/main.dcfc688d.js"
+  ]
+}
